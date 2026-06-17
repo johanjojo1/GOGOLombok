@@ -15,8 +15,6 @@
 !/storage/framework/.gitkeep
 !/storage/logs/.gitkeep
 nul
-package-lock.json
-composer.lock
 phpunit.xml
 README.md
 .dockerignore
