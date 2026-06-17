@@ -18,9 +18,6 @@ nul
 package-lock.json
 composer.lock
 phpunit.xml
-postcss.config.js
 README.md
-tailwind.config.js
-vite.config.js
 .dockerignore
 Dockerfile
