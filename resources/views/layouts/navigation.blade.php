@@ -38,7 +38,7 @@
                     Wisata
                 </a>
                 <a href="{{ route('saw.recommendations.index') }}" class="px-3 py-2 rounded-md text-md font-medium {{ request()->routeIs('saw.recommendations.*') ? 'text-gray-100 border-b-2 border-gray-100 hover:border-blue-300': 'text-gray-100 hover:border-blue-300 hover:border-b-2 border-b-2 border-transparent' }} transition">
-                    Rekomendasi
+                    Filter Wisata
                 </a>
                 <!-- <a href="{{ route('saw.results.index') }}" class="px-3 py-2 rounded-md text-md font-medium {{ request()->routeIs('saw.results.*') ? 'text-gray-100 border-b-2 border-gray-100 hover:border-blue-300': 'text-gray-100 hover:border-blue-300 hover:border-b-2 border-b-2 border-transparent' }} transition">
                     Ranking
@@ -104,10 +104,10 @@
                     Home
                 </a>
                 <a href="{{ route('wisata.catalog') }}" class="block px-3 py-2 rounded-md text-md font-medium {{ request()->routeIs('wisata.*') ? 'text-gray-500 border-b-2 border-blue-300': 'text-gray-700 hover:text-blue-600 hover:bg-gray-50' }} transition">
-                    Katalog
+                    Wisata
                 </a>
                 <a href="{{ route('saw.recommendations.index') }}" class="block px-3 py-2 rounded-md text-md font-medium {{ request()->routeIs('saw.recommendations.*') ? 'text-gray-500 border-b-2 border-blue-300': 'text-gray-700 hover:text-blue-600 hover:bg-gray-50' }} transition">
-                    Rekomendasi
+                    Filter Wisata
                 </a>
                 <!-- <a href="{{ route('saw.results.index') }}" class="block px-3 py-2 rounded-md text-md font-medium {{ request()->routeIs('saw.results.*') ? 'text-gray-500 border-b-2 border-blue-300': 'text-gray-700 hover:text-blue-600 hover:bg-gray-50' }} transition">
                     Ranking
@@ -121,7 +121,7 @@
                     Wisata
                 </a>
                 <a href="{{ route('saw.recommendations.index') }}" class="block px-3 py-2 rounded-md text-md font-medium {{ request()->routeIs('saw.recommendations.*') ? 'text-gray-500 border-b-2 border-blue-300': 'text-gray-700 hover:text-blue-600 hover:bg-gray-50' }} transition">
-                    Rekomendasi
+                    Filter Wisata
                 </a>
                 <!-- <a href="{{ route('saw.results.index') }}" class="block px-3 py-2 rounded-md text-md font-medium {{ request()->routeIs('saw.results.*') ? 'text-gray-500 border-b-2 border-blue-300': 'text-gray-700 hover:text-blue-600 hover:bg-gray-50' }} transition">
                     Ranking
