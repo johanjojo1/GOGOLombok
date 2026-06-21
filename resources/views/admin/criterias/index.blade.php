@@ -69,7 +69,7 @@
                                                 <td class="px-4 py-3">
                                                     {{ $criteria->description ? Str::limit($criteria->description, 30) : '-' }}
                                                 </td>
-                                                <td class="px-4 py-3 space-x-2">
+                                                <!-- <td class="px-4 py-3 space-x-2">
                                                     <a href="{{ route('admin.criterias.edit', $criteria) }}" class="bg-yellow-500 hover:bg-yellow-600 text-white px-3 py-1 rounded text-sm">
                                                         Edit
                                                     </a>
@@ -80,7 +80,7 @@
                                                             Hapus
                                                         </button>
                                                     </form>
-                                                </td>
+                                                </td> -->
                                             </tr>
                                         @endforeach
                                     </tbody>
