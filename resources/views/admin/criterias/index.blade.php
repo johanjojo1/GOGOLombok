@@ -43,7 +43,7 @@
                                             <th class="px-4 py-3 font-semibold">Tipe</th>
                                             <th class="px-4 py-3 font-semibold">Bobot</th>
                                             <th class="px-4 py-3 font-semibold">Deskripsi</th>
-                                            <th class="px-4 py-3 font-semibold">Aksi</th>
+                                            <!-- <th class="px-4 py-3 font-semibold">Aksi</th> -->
                                         </tr>
                                     </thead>
                                     <tbody>
