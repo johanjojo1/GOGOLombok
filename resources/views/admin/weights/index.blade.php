@@ -52,7 +52,7 @@
                                             <td class="px-4 py-3 font-semibold text-blue-600 dark:text-blue-400">
                                                 {{ number_format($weight->weight, 2) }}
                                             </td>
-                                            <td class="px-4 py-3 space-x-2 text-center">
+                                            <!-- <td class="px-4 py-3 space-x-2 text-center">
                                                 <a href="{{ route('admin.weights.edit', $weight) }}" class="bg-yellow-500 hover:bg-yellow-600 text-white px-3 py-1 rounded text-sm">
                                                     Edit
                                                 </a>
@@ -63,7 +63,7 @@
                                                         Hapus
                                                     </button>
                                                 </form>
-                                            </td>
+                                            </td> -->
                                         </tr>
                                     @endforeach
                                 </tbody>
