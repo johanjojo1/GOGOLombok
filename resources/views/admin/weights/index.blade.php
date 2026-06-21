@@ -33,7 +33,7 @@
                                         <th class="px-4 py-3 font-semibold">Nama Kriteria</th>
                                         <th class="px-4 py-3 font-semibold">Tipe</th>
                                         <th class="px-4 py-3 font-semibold">Bobot</th>
-                                        <th class="px-4 py-3 font-semibold text-center">Aksi</th>
+                                        <!-- <th class="px-4 py-3 font-semibold text-center">Aksi</th> -->
                                     </tr>
                                 </thead>
                                 <tbody>
